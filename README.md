@@ -13,7 +13,7 @@
 ![card](https://raw.githubusercontent.com/R74nCom/Vilmonic-Cards/refs/heads/main/magenta.png)
 ![card](https://raw.githubusercontent.com/R74nCom/Vilmonic-Cards/refs/heads/main/micro.png)
 ![card](https://raw.githubusercontent.com/R74nCom/Vilmonic-Cards/refs/heads/main/microscopic.png)
-![card](https://raw.githubusercontent.com/R74nCom/Vilmonic-Cards/refs/heads/main/octopus II.png)
+![card](https://raw.githubusercontent.com/R74nCom/Vilmonic-Cards/refs/heads/main/octopus%20II.png)
 ![card](https://raw.githubusercontent.com/R74nCom/Vilmonic-Cards/refs/heads/main/octopus.png)
 ![card](https://raw.githubusercontent.com/R74nCom/Vilmonic-Cards/refs/heads/main/orange.png)
 ![card](https://raw.githubusercontent.com/R74nCom/Vilmonic-Cards/refs/heads/main/pink.png)
